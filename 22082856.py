@@ -1,7 +1,7 @@
 #github repo link
 #https://github.com/Hami4214/infographic
 #student id 22082856
-
+#python version 3.12
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
